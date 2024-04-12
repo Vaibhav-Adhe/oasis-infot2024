@@ -9,8 +9,8 @@ A Calculator created under the virtual internship program of Oasis Infobyte. <br
 
 ## Task2 - Tribute Page
 A tribute page created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://github.com/Vaibhav-Adhe/oasis-infot2024/tree/main/Task1)
+[Live].(https://github.com/Vaibhav-Adhe/oasis-infot2024/tree/main/Task2)
 
 ## Task3 - Todo webapp
 A TO-DO app created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://github.com/Vaibhav-Adhe/oasis-infot2024/tree/main/Task3)
+[Live].(https://github.com/Vaibhav-Adhe/oasis-infot2024/tree/main/Task3)
